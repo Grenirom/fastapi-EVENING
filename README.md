@@ -7,4 +7,3 @@
 6) Создайте базу данных fastapi_rest_db командой: **createdb fastapi_rest_db    (входить в оболочку postgresql не нужно)**
 7) Проведите миграции (создание таблиц в БД) командой: **python3 migrate.py**
 8) Запустите локальный сервер командой: **uvicorn main:app --reload**
-9) 
